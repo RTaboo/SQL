@@ -1,4 +1,4 @@
-In this project I used SQLite studio
+In this project I used SQLite studio to analyze multiple tables of data. 
 
 /* Provide a Query of Customers who do not live in the US (Full names , country, customer id) */ 
 SELECT customerId FirstName , LastName, Country
