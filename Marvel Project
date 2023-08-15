@@ -1,3 +1,7 @@
+This project reveals insights about Marvel characters. 
+
+# The project utilized data from the following dataset:
+
 CREATE TABLE marvels (ID INTEGER PRIMARY KEY,
     name TEXT,
     popularity INTEGER,
