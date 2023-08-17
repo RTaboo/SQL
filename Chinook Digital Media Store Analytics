@@ -1,7 +1,7 @@
-In this project I used SQLite studio to analyze multiple tables of data. 
+In this project, I used SQLite Studio to analyze multiple tables of data. 
 
-/* Provide a Query of Customers who do not live in the US (Full names , country, customer id) */ 
-SELECT customerId FirstName , LastName, Country
+/* Provide a Query of Customers who do not live in the US (Full names, country, customer id) */ 
+SELECT customerId FirstName, LastName, Country
 FROM customers
 WHERE Country != 'USA' ;
 
